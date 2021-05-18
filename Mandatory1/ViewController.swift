@@ -1,8 +1,7 @@
-//
 //  ViewController.swift
 //  Recipe Collector
 //
-//  Created by Daniel Mejlvang Rasmussen on 19/03/2021.
+//  Created by Daniel Mejlvang Rasmussen on 19/03/2021
 //
 
 import UIKit
