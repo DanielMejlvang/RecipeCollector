@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Mandatory1
+//  Recipe Collector
 //
 //  Created by Daniel Mejlvang Rasmussen on 19/03/2021.
 //
