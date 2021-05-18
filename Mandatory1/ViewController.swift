@@ -17,6 +17,7 @@ class ViewController: UIViewController, Updatable, WKNavigationDelegate {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         // Do any additional setup after loading the view.
         tableView.dataSource = dataSource
         self.webView.navigationDelegate = self
